@@ -19,4 +19,4 @@ jobs:
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          INFO: ${{ {{ steps.plan_output.outputs.content }} }}
+          INFO: ${{ steps.plan_output.outputs.content }}
