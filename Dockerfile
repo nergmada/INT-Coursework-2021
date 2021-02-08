@@ -22,7 +22,4 @@ RUN mv /src/optic/release/optic/optic-clp /bin/optic
 	
 RUN echo '\033[1;35mFinished building\033[0m'
 
-COPY ./src /src
-WORKDIR /src
-
 CMD ./plan.sh
