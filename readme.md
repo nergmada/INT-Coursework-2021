@@ -10,7 +10,7 @@ The purpose of this repo is to allow you to write PDDL domains and problems, pus
 
 **Read these instructions carefully, failure to follow correctly could result in academic misconduct and failure of the coursework**
 
-To get started, you will first need to make a copy of this repo and push it to your own GitHub account. 
+To get started, you will first need to make a copy of this repo onto your own account.
 
 Only **one person per team** should do this and everyone else should be added to that repo.
 
@@ -29,7 +29,9 @@ Only **one person per team** should do this and everyone else should be added to
     
     You must also add myself, _nergmada_ to your repo. This allows us to provide quicker technical support and to collect your PDDL submissions.
 
-5. Finally your repo is now setup, you can clone it and start writing PDDL. In the `src` file of the repo, you will find `domain.pddl` and `problem_1.pddl` and `problem_2.pddl`. These are here as placeholders, you can safely replace these with your own domain and problem files.
+5. You must change the file called `TEAM` to your team number as can be found on the Team Feedback page for your group. Again, failure to do so could result in you not receiving as many marks as you may otherwise!
+
+6. Finally your repo is now setup, you can clone it and start writing PDDL. In the `src` file of the repo, you will find `domain.pddl` and `problem_1.pddl` and `problem_2.pddl`. These are here as placeholders, you can safely replace these with your own domain and problem files.
 
 
 ## Using this repo
